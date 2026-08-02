@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://jdtbsaving.shop/sitemap.xml
-Disallow: /images/
+Sitemap: /sitemap.xml
